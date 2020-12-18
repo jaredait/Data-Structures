@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\bin\Debug\netcoreapp3.1\Examen_Final.exe
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\bin\Debug\netcoreapp3.1\Examen_Final.deps.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\bin\Debug\netcoreapp3.1\Examen_Final.runtimeconfig.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\bin\Debug\netcoreapp3.1\Examen_Final.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\bin\Debug\netcoreapp3.1\Examen_Final.dll
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\bin\Debug\netcoreapp3.1\Examen_Final.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\obj\Debug\netcoreapp3.1\Examen_Final.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\obj\Debug\netcoreapp3.1\Examen_Final.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\obj\Debug\netcoreapp3.1\Examen_Final.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\obj\Debug\netcoreapp3.1\Examen_Final.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\obj\Debug\netcoreapp3.1\Examen_Final.dll
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\obj\Debug\netcoreapp3.1\Examen_Final.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Examen_Final\obj\Debug\netcoreapp3.1\Examen_Final.genruntimeconfig.cache
