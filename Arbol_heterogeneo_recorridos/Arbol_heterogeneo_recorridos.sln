@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arbol_heterogeneo_recorridos", "Arbol_heterogeneo_recorridos.csproj", "{BBCC73AF-75FD-4C97-AADD-68D7195D4FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCC73AF-75FD-4C97-AADD-68D7195D4FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCC73AF-75FD-4C97-AADD-68D7195D4FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCC73AF-75FD-4C97-AADD-68D7195D4FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCC73AF-75FD-4C97-AADD-68D7195D4FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81B42016-C2FB-4FF6-A13D-0F3E1D7F71B7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\bin\Debug\netcoreapp3.1\Recursion2.exe
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\bin\Debug\netcoreapp3.1\Recursion2.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\bin\Debug\netcoreapp3.1\Recursion2.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\bin\Debug\netcoreapp3.1\Recursion2.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\bin\Debug\netcoreapp3.1\Recursion2.dll
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\bin\Debug\netcoreapp3.1\Recursion2.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\obj\Debug\netcoreapp3.1\Recursion2.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\obj\Debug\netcoreapp3.1\Recursion2.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\obj\Debug\netcoreapp3.1\Recursion2.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\obj\Debug\netcoreapp3.1\Recursion2.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\obj\Debug\netcoreapp3.1\Recursion2.dll
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\obj\Debug\netcoreapp3.1\Recursion2.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Recursion2\obj\Debug\netcoreapp3.1\Recursion2.genruntimeconfig.cache

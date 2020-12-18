@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\bin\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.exe
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\bin\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\bin\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\bin\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\bin\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.dll
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\bin\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\obj\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\obj\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\obj\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\obj\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\obj\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.dll
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\obj\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Infijo_prefijo_sufijo\obj\Debug\netcoreapp3.1\Infijo_prefijo_sufijo.genruntimeconfig.cache

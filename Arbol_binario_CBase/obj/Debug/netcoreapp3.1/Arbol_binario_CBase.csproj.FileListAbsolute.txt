@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\bin\Debug\netcoreapp3.1\Arbol_binario_CBase.exe
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\bin\Debug\netcoreapp3.1\Arbol_binario_CBase.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\bin\Debug\netcoreapp3.1\Arbol_binario_CBase.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\bin\Debug\netcoreapp3.1\Arbol_binario_CBase.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\bin\Debug\netcoreapp3.1\Arbol_binario_CBase.dll
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\bin\Debug\netcoreapp3.1\Arbol_binario_CBase.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\obj\Debug\netcoreapp3.1\Arbol_binario_CBase.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\obj\Debug\netcoreapp3.1\Arbol_binario_CBase.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\obj\Debug\netcoreapp3.1\Arbol_binario_CBase.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\obj\Debug\netcoreapp3.1\Arbol_binario_CBase.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\obj\Debug\netcoreapp3.1\Arbol_binario_CBase.dll
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\obj\Debug\netcoreapp3.1\Arbol_binario_CBase.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Arbol_binario_CBase\obj\Debug\netcoreapp3.1\Arbol_binario_CBase.genruntimeconfig.cache

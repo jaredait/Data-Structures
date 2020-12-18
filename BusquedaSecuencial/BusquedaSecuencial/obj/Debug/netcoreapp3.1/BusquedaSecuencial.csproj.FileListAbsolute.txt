@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\netcoreapp3.1\BusquedaSecuencial.exe
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\netcoreapp3.1\BusquedaSecuencial.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\netcoreapp3.1\BusquedaSecuencial.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\netcoreapp3.1\BusquedaSecuencial.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\netcoreapp3.1\BusquedaSecuencial.dll
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\bin\Debug\netcoreapp3.1\BusquedaSecuencial.pdb
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\netcoreapp3.1\BusquedaSecuencial.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\netcoreapp3.1\BusquedaSecuencial.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\netcoreapp3.1\BusquedaSecuencial.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\netcoreapp3.1\BusquedaSecuencial.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\netcoreapp3.1\BusquedaSecuencial.dll
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\netcoreapp3.1\BusquedaSecuencial.pdb
+C:\Users\jared\source\repos\Estructura de Datos\BusquedaSecuencial\BusquedaSecuencial\obj\Debug\netcoreapp3.1\BusquedaSecuencial.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+Como acceder a la cola ColaPersonas (public) desde AgregarPersona?

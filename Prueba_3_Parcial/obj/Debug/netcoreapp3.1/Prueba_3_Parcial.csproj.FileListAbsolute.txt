@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\bin\Debug\netcoreapp3.1\Prueba_3_Parcial.exe
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\bin\Debug\netcoreapp3.1\Prueba_3_Parcial.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\bin\Debug\netcoreapp3.1\Prueba_3_Parcial.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\bin\Debug\netcoreapp3.1\Prueba_3_Parcial.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\bin\Debug\netcoreapp3.1\Prueba_3_Parcial.dll
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\bin\Debug\netcoreapp3.1\Prueba_3_Parcial.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\obj\Debug\netcoreapp3.1\Prueba_3_Parcial.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\obj\Debug\netcoreapp3.1\Prueba_3_Parcial.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\obj\Debug\netcoreapp3.1\Prueba_3_Parcial.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\obj\Debug\netcoreapp3.1\Prueba_3_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\obj\Debug\netcoreapp3.1\Prueba_3_Parcial.dll
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\obj\Debug\netcoreapp3.1\Prueba_3_Parcial.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Prueba_3_Parcial\obj\Debug\netcoreapp3.1\Prueba_3_Parcial.genruntimeconfig.cache

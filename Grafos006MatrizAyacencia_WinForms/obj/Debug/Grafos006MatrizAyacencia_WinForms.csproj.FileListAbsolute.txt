@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\bin\Debug\Grafos006MatrizAyacencia_WinForms.exe.config
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\bin\Debug\Grafos006MatrizAyacencia_WinForms.exe
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\bin\Debug\Grafos006MatrizAyacencia_WinForms.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\obj\Debug\Grafos006MatrizAyacencia_WinForms.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\obj\Debug\Grafos006MatrizAyacencia_WinForms.Form1.resources
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\obj\Debug\Grafos006MatrizAyacencia_WinForms.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\obj\Debug\Grafos006MatrizAyacencia_WinForms.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\obj\Debug\Grafos006MatrizAyacencia_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\obj\Debug\Grafos006MatrizAyacencia_WinForms.exe
+C:\Users\ASUS\source\repos\Estructura de Datos\Grafos006MatrizAyacencia_WinForms\obj\Debug\Grafos006MatrizAyacencia_WinForms.pdb

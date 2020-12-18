@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\bin\Debug\Proyecto_final.exe.config
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\bin\Debug\Proyecto_final.exe
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\bin\Debug\Proyecto_final.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.Form1.resources
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.exe
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Proyecto_final\obj\Debug\Proyecto_final.Form_AgregarPersona.resources

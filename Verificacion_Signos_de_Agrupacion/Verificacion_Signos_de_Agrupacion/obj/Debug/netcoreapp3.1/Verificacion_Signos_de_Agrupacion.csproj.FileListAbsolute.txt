@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\bin\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.exe
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\bin\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\bin\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\bin\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\bin\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.dll
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\bin\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\obj\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\obj\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\obj\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\obj\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\obj\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.dll
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\obj\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Verificacion_Signos_de_Agrupacion\Verificacion_Signos_de_Agrupacion\obj\Debug\netcoreapp3.1\Verificacion_Signos_de_Agrupacion.genruntimeconfig.cache

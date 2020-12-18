@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\bin\Debug\netcoreapp3.1\COLAPQ.exe
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\bin\Debug\netcoreapp3.1\COLAPQ.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\bin\Debug\netcoreapp3.1\COLAPQ.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\bin\Debug\netcoreapp3.1\COLAPQ.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\bin\Debug\netcoreapp3.1\COLAPQ.dll
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\bin\Debug\netcoreapp3.1\COLAPQ.pdb
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\obj\Debug\netcoreapp3.1\COLAPQ.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\obj\Debug\netcoreapp3.1\COLAPQ.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\obj\Debug\netcoreapp3.1\COLAPQ.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\obj\Debug\netcoreapp3.1\COLAPQ.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\obj\Debug\netcoreapp3.1\COLAPQ.dll
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\obj\Debug\netcoreapp3.1\COLAPQ.pdb
+C:\Users\jared\source\repos\Estructura de Datos\COLAPQ\COLAPQ\obj\Debug\netcoreapp3.1\COLAPQ.genruntimeconfig.cache

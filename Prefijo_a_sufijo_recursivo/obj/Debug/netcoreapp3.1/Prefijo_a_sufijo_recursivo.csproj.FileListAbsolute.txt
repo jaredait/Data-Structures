@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\obj\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\obj\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\obj\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\obj\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\bin\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.exe
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\bin\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\bin\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\bin\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\bin\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.dll
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\bin\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\obj\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.dll
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\obj\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Prefijo_a_sufijo_recursivo\obj\Debug\netcoreapp3.1\Prefijo_a_sufijo_recursivo.genruntimeconfig.cache

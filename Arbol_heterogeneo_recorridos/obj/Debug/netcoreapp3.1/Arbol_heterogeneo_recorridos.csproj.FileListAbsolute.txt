@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\bin\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.exe
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\bin\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.deps.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\bin\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.runtimeconfig.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\bin\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\bin\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.dll
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\bin\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\obj\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\obj\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\obj\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\obj\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\obj\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.dll
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\obj\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_heterogeneo_recorridos\obj\Debug\netcoreapp3.1\Arbol_heterogeneo_recorridos.genruntimeconfig.cache

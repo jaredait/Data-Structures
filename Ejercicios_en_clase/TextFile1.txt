@@ -1,0 +1,128 @@
+using System;
+using System.Globalization;
+
+namespace Ejercicios_en_clase
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(Cifrar("a b z", 3));
+
+
+        }
+
+        static string Cifrar(string cadena, int mov)
+        {
+            const string ALFABETO = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
+            string cifrada = string.Empty;
+            string letra = string.Empty;
+            int posicion = 0;
+
+            cadena = cadena.ToUpper();
+            Console.WriteLine(cadena);
+
+            // Almacenar la posicion de cada letra de cadena en posicion
+
+            for (int i = 0; i < cadena.Length; i++)
+            {
+                // posicion
+                for(int j = 0; j < ALFABETO.Length; j++)
+                {
+                    if (cadena[i] == ALFABETO[j])
+                    {
+                        posicion = j;
+                    }
+                }
+
+                int k = posicion;
+                int limite = ALFABETO.Length;
+                /*
+                // cifrar
+                for (k = posicion; k < mov + posicion; k++)
+                {
+                   
+                }
+                */
+
+                while(k < mov)
+                {
+                    if (k == ALFABETO.Length)
+                        k = 0;
+                    k++;
+                }
+
+                
+
+                // asignacion de letras segun mov
+                if(Convert.ToChar(cadena[i]) == ' ')
+                    cifrada += " ";
+                else
+                    cifrada += ALFABETO[k];
+
+            }
+            
+
+
+            return cifrada;
+        }
+
+
+
+
+
+
+
+
+
+        static string Descifrar(string cadena, int mov)
+        {
+            const string ALFABETO = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
+            string cifrada = string.Empty;
+            string letra = string.Empty;
+            int posicion = 0;
+
+            cadena = cadena.ToUpper();
+            Console.WriteLine(cadena);
+
+            // Almacenar la posicion de cada letra de cadena en posicion
+
+            for (int i = 0; i < cadena.Length; i++)
+            {
+                // posicion
+                for (int j = 0; j < ALFABETO.Length; j++)
+                {
+                    if (cadena[i] == ALFABETO[j])
+                    {
+                        posicion = j;
+                    }
+                }
+                //
+
+                int k;
+                int limite = ALFABETO.Length;
+                // cifrar
+                for (k = posicion; k < mov + posicion; k++)
+                {
+                    if (limite == k)
+                    {
+                        k = 0;
+                    }
+                    Console.WriteLine(k);
+                }
+
+
+                // asignacion de letras segun mov
+                if (Convert.ToChar(cadena[i]) == ' ')
+                    cifrada += " ";
+                else
+                    cifrada += ALFABETO[k];
+
+            }
+
+
+
+            return cifrada;
+        }
+    }
+}

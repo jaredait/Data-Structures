@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jared\\source\\repos\\Estructura de Datos\\LSE\\LSE\\LSE.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jared\\source\\repos\\Estructura de Datos\\LSE\\LSE\\LSE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jared\\source\\repos\\Estructura de Datos\\LSE\\LSE\\LSE.csproj",
+        "projectName": "LSE",
+        "projectPath": "C:\\Users\\jared\\source\\repos\\Estructura de Datos\\LSE\\LSE\\LSE.csproj",
+        "packagesPath": "C:\\Users\\jared\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jared\\source\\repos\\Estructura de Datos\\LSE\\LSE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jared\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

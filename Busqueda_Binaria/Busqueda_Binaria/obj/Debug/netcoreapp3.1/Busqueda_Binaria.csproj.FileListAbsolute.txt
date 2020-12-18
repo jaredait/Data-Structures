@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.exe
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.dll
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\bin\Debug\netcoreapp3.1\Busqueda_Binaria.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.dll
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Busqueda_Binaria\Busqueda_Binaria\obj\Debug\netcoreapp3.1\Busqueda_Binaria.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Arbol_binario_CBase/1.0.0": {
+        "runtime": {
+          "Arbol_binario_CBase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arbol_binario_CBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

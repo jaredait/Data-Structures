@@ -1,0 +1,6 @@
+﻿left		property
+right		property
+broder		done
+father		property
+isRight		done
+isLeft		done

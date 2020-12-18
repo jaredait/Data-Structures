@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\bin\Debug\netcoreapp3.1\ADT_Matriz.exe
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\bin\Debug\netcoreapp3.1\ADT_Matriz.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\bin\Debug\netcoreapp3.1\ADT_Matriz.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\bin\Debug\netcoreapp3.1\ADT_Matriz.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\bin\Debug\netcoreapp3.1\ADT_Matriz.dll
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\bin\Debug\netcoreapp3.1\ADT_Matriz.pdb
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\obj\Debug\netcoreapp3.1\ADT_Matriz.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\obj\Debug\netcoreapp3.1\ADT_Matriz.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\obj\Debug\netcoreapp3.1\ADT_Matriz.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\obj\Debug\netcoreapp3.1\ADT_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\obj\Debug\netcoreapp3.1\ADT_Matriz.dll
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\obj\Debug\netcoreapp3.1\ADT_Matriz.pdb
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Matriz\ADT_Matriz\obj\Debug\netcoreapp3.1\ADT_Matriz.genruntimeconfig.cache

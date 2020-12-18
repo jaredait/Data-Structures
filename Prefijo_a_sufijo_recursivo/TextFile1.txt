@@ -1,0 +1,73 @@
+﻿// funtion to check if character
+        // is operator or not
+        static bool isOperator(char x)
+        {
+            switch (x)
+            {
+                case '+':
+                case '-':
+                case '/':
+                case '*':
+                    return true;
+            }
+            return false;
+        }
+
+        // Convert prefix to Postfix expression
+        static String preToPost(String prefijo)
+        {
+
+            Stack<String> stack = new Stack<String>();
+
+            // length of expression
+            int length = prefijo.Length;
+
+            // reading from right to left
+            for (int i = length - 1; i >= 0; i--)
+            {
+                // *-A/BC-/AKL
+                // check if symbol is operator
+                if (isOperator(prefijo[i]))
+                {
+                    // pop two operands from stack
+                    String op1 = stack.Peek();
+                    stack.Pop();
+                    String op2 = stack.Peek();
+                    stack.Pop();
+
+                    // concat the operands and operator
+                    String temp = op1 + op2 + prefijo[i];
+
+                    // Push String temp back to stack
+                    stack.Push(temp);
+                }
+
+                // if symbol is an operand
+                else
+                {
+                    // push the operand to the stack
+                    stack.Push(prefijo[i] + "");
+                }
+            }
+
+            // stack contains only the Postfix expression
+            return stack.Peek();
+        }
+
+
+
+
+
+f("+-abc") => return f("-abc") + "+" + f(rem1)
+
+ f("-abc") => return f("abc") + "-" + f(rem2)
+
+  f("abc") => return "ab"
+
+  rem2 = "c" (remainder of the string)
+
+  f("c")   => return "c"
+
+ rem1 = ""
+
+se construye: "ab-c+"

@@ -1,0 +1,33 @@
+﻿        // Funcion que convierte una expresion infija a postfija
+        public static string APostfija(string infija)
+        {
+            string postfija = string.Empty;
+            Stack opstk = new Stack();
+            char symb;
+            char topSymb;
+
+            for(int i = 0; i < infija.Length; i++)
+            {
+                symb = infija[i];
+                if (char.IsLetter(symb))
+                {
+                    Console.WriteLine("{0} = is letter", symb);
+                    postfija += symb;
+                }
+                else
+                {
+                    while (opstk.Count > 0 && Precedencia((char)opstk.Peek(), symb))
+                    {
+                        topSymb = (char)opstk.Pop();
+                        postfija += topSymb;
+                    }
+                    opstk.Push(symb);
+                }
+            }
+            while(opstk.Count > 0)
+            {
+                topSymb = (char)opstk.Pop();
+                postfija += topSymb;
+            }
+            return postfija;
+        }

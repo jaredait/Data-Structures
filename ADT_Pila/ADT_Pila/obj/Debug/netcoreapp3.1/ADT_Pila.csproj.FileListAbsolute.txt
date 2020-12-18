@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\bin\Debug\netcoreapp3.1\ADT_Pila.exe
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\bin\Debug\netcoreapp3.1\ADT_Pila.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\bin\Debug\netcoreapp3.1\ADT_Pila.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\bin\Debug\netcoreapp3.1\ADT_Pila.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\bin\Debug\netcoreapp3.1\ADT_Pila.dll
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\bin\Debug\netcoreapp3.1\ADT_Pila.pdb
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\obj\Debug\netcoreapp3.1\ADT_Pila.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\obj\Debug\netcoreapp3.1\ADT_Pila.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\obj\Debug\netcoreapp3.1\ADT_Pila.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\obj\Debug\netcoreapp3.1\ADT_Pila.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\obj\Debug\netcoreapp3.1\ADT_Pila.dll
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\obj\Debug\netcoreapp3.1\ADT_Pila.pdb
+C:\Users\jared\source\repos\Estructura de Datos\ADT_Pila\ADT_Pila\obj\Debug\netcoreapp3.1\ADT_Pila.genruntimeconfig.cache

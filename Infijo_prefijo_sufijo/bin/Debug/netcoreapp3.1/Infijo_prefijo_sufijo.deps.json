@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Infijo_prefijo_sufijo/1.0.0": {
+        "runtime": {
+          "Infijo_prefijo_sufijo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infijo_prefijo_sufijo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\bin\Debug\netcoreapp3.1\Ejercicios_en_clase.exe
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\bin\Debug\netcoreapp3.1\Ejercicios_en_clase.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\bin\Debug\netcoreapp3.1\Ejercicios_en_clase.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\bin\Debug\netcoreapp3.1\Ejercicios_en_clase.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\bin\Debug\netcoreapp3.1\Ejercicios_en_clase.dll
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\bin\Debug\netcoreapp3.1\Ejercicios_en_clase.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\obj\Debug\netcoreapp3.1\Ejercicios_en_clase.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\obj\Debug\netcoreapp3.1\Ejercicios_en_clase.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\obj\Debug\netcoreapp3.1\Ejercicios_en_clase.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\obj\Debug\netcoreapp3.1\Ejercicios_en_clase.dll
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\obj\Debug\netcoreapp3.1\Ejercicios_en_clase.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\obj\Debug\netcoreapp3.1\Ejercicios_en_clase.genruntimeconfig.cache
+C:\Users\jared\source\repos\Estructura de Datos\Ejercicios_en_clase\Ejercicios_en_clase\obj\Debug\netcoreapp3.1\Ejercicios_en_clase.csprojAssemblyReference.cache

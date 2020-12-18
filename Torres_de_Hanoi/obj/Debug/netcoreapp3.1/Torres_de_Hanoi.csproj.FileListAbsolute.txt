@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\bin\Debug\netcoreapp3.1\Torres_de_Hanoi.exe
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\bin\Debug\netcoreapp3.1\Torres_de_Hanoi.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\bin\Debug\netcoreapp3.1\Torres_de_Hanoi.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\bin\Debug\netcoreapp3.1\Torres_de_Hanoi.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\bin\Debug\netcoreapp3.1\Torres_de_Hanoi.dll
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\bin\Debug\netcoreapp3.1\Torres_de_Hanoi.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\obj\Debug\netcoreapp3.1\Torres_de_Hanoi.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\obj\Debug\netcoreapp3.1\Torres_de_Hanoi.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\obj\Debug\netcoreapp3.1\Torres_de_Hanoi.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\obj\Debug\netcoreapp3.1\Torres_de_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\obj\Debug\netcoreapp3.1\Torres_de_Hanoi.dll
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\obj\Debug\netcoreapp3.1\Torres_de_Hanoi.pdb
+C:\Users\jared\source\repos\Estructura de Datos\Torres_de_Hanoi\obj\Debug\netcoreapp3.1\Torres_de_Hanoi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\bin\Debug\netcoreapp3.1\Arbol_AVL.exe
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\bin\Debug\netcoreapp3.1\Arbol_AVL.deps.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\bin\Debug\netcoreapp3.1\Arbol_AVL.runtimeconfig.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\bin\Debug\netcoreapp3.1\Arbol_AVL.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\bin\Debug\netcoreapp3.1\Arbol_AVL.dll
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\bin\Debug\netcoreapp3.1\Arbol_AVL.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\obj\Debug\netcoreapp3.1\Arbol_AVL.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\obj\Debug\netcoreapp3.1\Arbol_AVL.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\obj\Debug\netcoreapp3.1\Arbol_AVL.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\obj\Debug\netcoreapp3.1\Arbol_AVL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\obj\Debug\netcoreapp3.1\Arbol_AVL.dll
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\obj\Debug\netcoreapp3.1\Arbol_AVL.pdb
+C:\Users\ASUS\source\repos\Estructura de Datos\Arbol_AVL\obj\Debug\netcoreapp3.1\Arbol_AVL.genruntimeconfig.cache

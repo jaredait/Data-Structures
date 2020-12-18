@@ -1,0 +1,13 @@
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\bin\Debug\netcoreapp3.1\LSE.exe
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\bin\Debug\netcoreapp3.1\LSE.deps.json
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\bin\Debug\netcoreapp3.1\LSE.runtimeconfig.json
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\bin\Debug\netcoreapp3.1\LSE.runtimeconfig.dev.json
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\bin\Debug\netcoreapp3.1\LSE.dll
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\bin\Debug\netcoreapp3.1\LSE.pdb
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\obj\Debug\netcoreapp3.1\LSE.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\obj\Debug\netcoreapp3.1\LSE.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\obj\Debug\netcoreapp3.1\LSE.AssemblyInfo.cs
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\obj\Debug\netcoreapp3.1\LSE.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\obj\Debug\netcoreapp3.1\LSE.dll
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\obj\Debug\netcoreapp3.1\LSE.pdb
+C:\Users\jared\source\repos\Estructura de Datos\LSE\LSE\obj\Debug\netcoreapp3.1\LSE.genruntimeconfig.cache
